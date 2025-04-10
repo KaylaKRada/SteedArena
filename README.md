@@ -32,7 +32,7 @@ This project helped me better understand what it means to design systems that ar
 ---
 
 ## 📁 Files Included
-- [SteedArena_SystemsReport.pdf](https://github.com/kaylakrada/steed-arena-systems-analysis/blob/main/SteedArena_SystemsReport.pdf) – Final report  
+- [SteedArena_SystemsReport.pdf](https://github.com/KaylaKRada/SteedArena/blob/main/Sys Anal & Des Final Presentation.pdf) – Final report  
 - `README.md` – You're reading it!  
 
 ---
