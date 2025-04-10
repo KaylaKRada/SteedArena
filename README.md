@@ -33,7 +33,7 @@ This project helped me better understand what it means to design systems that ar
 
 ## 📁 Files Included
 - [SteedArena_SystemsReport.pdf](https://github.com/KaylaKRada/SteedArena/blob/main/Final%20Project%20SA%26D%20Report.pdf) – Final report
-- - [SteedArena_Presentation.pptx](https://github.com/KaylaKRada/SteedArena/blob/main/SysFinalPresentation.pptx) - Final Powerpoint download
+- [SteedArena_Presentation.pptx](https://github.com/KaylaKRada/SteedArena/blob/main/SysFinalPresentation.pptx) - Final Powerpoint download
 - `README.md` – You're reading it!  
 
 ---
