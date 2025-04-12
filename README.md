@@ -20,7 +20,8 @@ Our team needed to investigate current systems used at Steed Arena and find ways
 We analyzed the arena’s mechanical systems, interviewed stakeholders, and researched solutions that could help reduce costs and improve efficiency. Some of the areas we covered were:  
 - Implementing Variable Frequency Drives (VFDs)  
 - Adding humidity control systems  
-- Exploring solar panel options and their ROI  
+- Exploring solar panel options and their ROI
+  
 I personally helped lead the research on alternative energy systems and handled formatting and final edits on the written report.
 
 ### ✅ **Result**  
