@@ -2,7 +2,7 @@
 **Course:** Systems Analysis & Design  
 **Team:** Oliver Atkinson, Clayton DeSimone, Kayla Rada  
 **Semester:** Fall 2023  
-**Instructor:** Bill Halannan – Helena College, University of Montana
+**Instructor:** Bill Hallinan – Helena College, University of Montana
 
 ---
 
