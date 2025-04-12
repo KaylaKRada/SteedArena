@@ -7,7 +7,7 @@
 ---
 
 ## 🚦 Overview
-This was a team project where we were assigned to perform a full systems analysis on a real-world client—Steed Arena, the only local ice rink in Helena, Montana. Originally, we thought the biggest issue was the ticketing system, but after talking with the owner, we realized energy efficiency and rising utility costs were a much bigger concern. So we pivoted and tailored our entire report to focus on those areas.
+This was a team project where we were assigned to perform a full systems analysis on a real-world client. We choose Steed Arena, the only local ice rink in Helena, Montana. Originally, we thought the biggest issue was the ticketing system, but after talking with the owner, we realized energy efficiency and rising utility costs were a much bigger concern to them. So we pivoted and tailored our entire report to focus on those areas.
 
 ---
 
